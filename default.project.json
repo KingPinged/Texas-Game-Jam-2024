@@ -1,25 +1,25 @@
 {
-  "name": "Texas-Game-Jam-2024",
+  "name": "Raiders",
   "tree": {
     "$className": "DataModel",
 
     "ReplicatedStorage": {
-      "Shared": {
-        "$path": "src/shared"
+      "$path": "src/ReplicatedStorage",
+      "Packages": {
+        "$path": "Packages"
       }
     },
 
     "ServerScriptService": {
-      "Server": {
-        "$path": "src/server"
+      "$path": "src/Server",
+      "ServerPackages": {
+        "$path": "ServerPackages"
       }
     },
 
     "StarterPlayer": {
       "StarterPlayerScripts": {
-        "Client": {
-          "$path": "src/client"
-        }
+        "$path": "src/Client"
       }
     },
 
