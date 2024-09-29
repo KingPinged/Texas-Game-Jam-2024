@@ -26,6 +26,7 @@ return function(scope, props)
 				BorderColor3 = Color3.fromRGB(0, 0, 0),
 				BorderSizePixel = 0,
 				Size = UDim2.fromScale(1, 1),
+				Rotation = scope:Spring(scope:Value(10), 1, 0.0),
 			}),
 		},
 	})
