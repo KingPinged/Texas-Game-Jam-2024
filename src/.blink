@@ -1,6 +1,6 @@
 -- these can be ignored if you are using the studio plugin
-option ClientOutput = "path/to/client.luau"
-option ServerOutput = "path/to/server.luau"
+option ClientOutput = "Server/Network.luau"
+option ServerOutput = "Client/Network.luau"
  
 event MyFirstEvent {
     from: Server,
