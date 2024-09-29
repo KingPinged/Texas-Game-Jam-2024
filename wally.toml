@@ -1,0 +1,14 @@
+[package]
+name = "kings/texas-game-jam-2024"
+version = "0.1.0"
+registry = "https://github.com/UpliftGames/wally-index"
+realm = "shared"
+
+[dependencies]
+janitor = "howmanysmall/janitor@1.16.0"
+promise = "evaera/promise@4.0.0"
+fusion = "elttob/fusion@0.2.0"
+testez = "roblox/testez@0.4.1"
+
+[server-dependencies]
+profileservice = "firecam702/profileservice@1.0.0"
