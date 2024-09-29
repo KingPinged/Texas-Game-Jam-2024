@@ -1,1 +1,1 @@
-print("Hello world, from client!")
+local blink = require("blink")

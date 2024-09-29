@@ -7,7 +7,7 @@ realm = "shared"
 [dependencies]
 janitor = "howmanysmall/janitor@1.16.0"
 promise = "evaera/promise@4.0.0"
-fusion = "elttob/fusion@0.2.0"
+fusion = "elttob/fusion@0.3.0"
 testez = "roblox/testez@0.4.1"
 Knit = "sleitnick/knit@^1.7"
 
